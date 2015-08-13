@@ -1,6 +1,5 @@
-node_modules
-temp
-dist
+node_modules/
+dist/
 .sass-cache
-app/bower_components
+app/statis/libs/
 .tmp/
